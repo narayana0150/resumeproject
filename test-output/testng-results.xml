@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-07-22T17:30:28 IST" name="Default suite" finished-at="2023-07-22T17:30:51 IST" duration-ms="22423">
+    <groups>
+    </groups>
+    <test started-at="2023-07-22T17:30:28 IST" name="Default test" finished-at="2023-07-22T17:30:51 IST" duration-ms="22423">
+      <class name="elecronics.Userabletoaddelectricalprodtocart">
+        <test-method is-config="true" signature="DBconne()[pri:0, instance:elecronics.Userabletoaddelectricalprodtocart@24aed80c]" started-at="2023-07-22T17:30:28 IST" name="DBconne" finished-at="2023-07-22T17:30:28 IST" duration-ms="17" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DBconne -->
+        <test-method is-config="true" signature="parallalexcution()[pri:0, instance:elecronics.Userabletoaddelectricalprodtocart@24aed80c]" started-at="2023-07-22T17:30:28 IST" name="parallalexcution" finished-at="2023-07-22T17:30:28 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- parallalexcution -->
+        <test-method is-config="true" signature="browserlaunch()[pri:0, instance:elecronics.Userabletoaddelectricalprodtocart@24aed80c]" started-at="2023-07-22T17:30:28 IST" name="browserlaunch" finished-at="2023-07-22T17:30:39 IST" duration-ms="11022" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserlaunch -->
+        <test-method is-config="true" signature="apllicationlaunch()[pri:0, instance:elecronics.Userabletoaddelectricalprodtocart@24aed80c]" started-at="2023-07-22T17:30:39 IST" name="apllicationlaunch" finished-at="2023-07-22T17:30:39 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- apllicationlaunch -->
+        <test-method signature="checkcarttoelecricalproduct()[pri:0, instance:elecronics.Userabletoaddelectricalprodtocart@24aed80c]" started-at="2023-07-22T17:30:39 IST" name="checkcarttoelecricalproduct" finished-at="2023-07-22T17:30:50 IST" duration-ms="10406" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkcarttoelecricalproduct -->
+        <test-method is-config="true" signature="applicationclosed()[pri:0, instance:elecronics.Userabletoaddelectricalprodtocart@24aed80c]" started-at="2023-07-22T17:30:50 IST" name="applicationclosed" finished-at="2023-07-22T17:30:50 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- applicationclosed -->
+        <test-method is-config="true" signature="closethe_browser()[pri:0, instance:elecronics.Userabletoaddelectricalprodtocart@24aed80c]" started-at="2023-07-22T17:30:50 IST" name="closethe_browser" finished-at="2023-07-22T17:30:51 IST" duration-ms="905" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closethe_browser -->
+        <test-method is-config="true" signature="paralallexc()[pri:0, instance:elecronics.Userabletoaddelectricalprodtocart@24aed80c]" started-at="2023-07-22T17:30:51 IST" name="paralallexc" finished-at="2023-07-22T17:30:51 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- paralallexc -->
+        <test-method is-config="true" signature="bdclosed()[pri:0, instance:elecronics.Userabletoaddelectricalprodtocart@24aed80c]" started-at="2023-07-22T17:30:51 IST" name="bdclosed" finished-at="2023-07-22T17:30:51 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bdclosed -->
+      </class> <!-- elecronics.Userabletoaddelectricalprodtocart -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
